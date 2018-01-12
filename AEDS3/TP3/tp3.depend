@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1415293863 source:/home/jpsamarino/AEDS3/TP3/lista.c
+	"lista.h"
+
+1415293863 /home/jpsamarino/AEDS3/TP3/lista.h
+	<stdlib.h>
+	<stdio.h>
+
+1415709642 source:/home/jpsamarino/AEDS3/TP3/main.c
+	<stdio.h>
+	<stdlib.h>
+	"grafos.h"
+
+1415718297 source:/home/jpsamarino/AEDS3/TP3/grafos.c
+	"grafos.h"
+
+1415711916 /home/jpsamarino/AEDS3/TP3/grafos.h
+	"lista.h"
+	<math.h>
+	<pthread.h>
+

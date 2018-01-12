@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1411043838 source:/home/jpsamarino/AEDS3/TP1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"memoria.h"
+
+1410965491 /home/jpsamarino/AEDS3/TP1/lista.h
+	<stdlib.h>
+	<stdio.h>
+
+1411043086 source:/home/jpsamarino/AEDS3/TP1/memoria.c
+	"memoria.h"
+
+1411043086 source:/home/jpsamarino/AEDS3/TP1/lista.c
+	"lista.h"
+
+1411043871 /home/jpsamarino/AEDS3/TP1/memoria.h
+	"lista.h"
+

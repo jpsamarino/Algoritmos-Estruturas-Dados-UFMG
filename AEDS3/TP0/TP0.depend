@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1407936256 source:c:\users\joão pedro\dropbox\aeds3\tp0\matriz.c
+	"matriz.h"
+
+1408714810 
+
+1407936361 c:\users\joão pedro\dropbox\aeds3\tp0\matriz.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1407936663 source:c:\users\joão pedro\dropbox\aeds3\tp0\main.c
+	"matriz.h"
+
+1408715697 source:c:\users\joão pedro\desktop\aeds3\tp0\matriz.c
+	"matriz.h"
+
+1408542346 c:\users\joão pedro\desktop\aeds3\tp0\matriz.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1408714810 source:c:\users\joão pedro\desktop\aeds3\tp0\main.c
+	"matriz.h"
+
+1408715697 source:/home/jpsamarino/Dropbox/AEDS3/TP0/matriz.c
+	"matriz.h"
+
+1408542346 /home/jpsamarino/Dropbox/AEDS3/TP0/matriz.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
