@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1383756397 source:c:\users\joão pedro\desktop\aeds2\tp2\texto.c
+	"texto.h"
+
+1383755844 c:\users\joão pedro\desktop\aeds2\tp2\texto.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1383756080 source:c:\users\joão pedro\desktop\aeds2\tp2\main.c
+	<stdio.h>
+	<stdio.h>
+	<string.h>
+	"texto.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1377915483 source:c:\users\joão pedro\desktop\aeds2\tp0\geo.c
+	<stdio.h>
+	<stdlib.h>
+	"Geo.h"
+
+1377659929 source:c:\users\joão pedro\desktop\aeds2\tp0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Geo.h"
+
+1377643030 c:\users\joão pedro\desktop\aeds2\tp0\geo.h
+
